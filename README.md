@@ -34,3 +34,15 @@ Golang: 서버 로직을 구현하기 위해 사용됩니다. 고성능을 유�
 채팅 메시지는 Kafka로 전송되어 분산 처리됩니다.
 
 메시지는 MongoDB에 저장되어 나중에 검색할 수 있습니다.
+
+---
+**version 0.1**
+웹소켓으로 readMessage와 writeMessage 구현 , redis에 refresh token 저장
+<img width="959" alt="image" src="https://github.com/SundaePorkCutlet/chating/assets/87690981/c77748c8-13ae-4cc2-aa64-8fcc51157cf6">
+<img width="720" alt="image" src="https://github.com/SundaePorkCutlet/chating/assets/87690981/3002240c-39bd-4955-916f-4204106d1565">
+
+1. 채팅방 선택
+2. 채팅 단순히 화면에 띄우기
+
+회원가입 , 방만들기, 채팅 히스토리 등등 없음...
+
