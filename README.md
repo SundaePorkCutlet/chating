@@ -36,7 +36,8 @@ Golang: 서버 로직을 구현하기 위해 사용됩니다. 고성능을 유�
 메시지는 MongoDB에 저장되어 나중에 검색할 수 있습니다.
 
 ---
-**version 0.1**
+**version 0.1 (websocket)**
+
 웹소켓으로 readMessage와 writeMessage 구현 , redis에 refresh token 저장
 <img width="959" alt="image" src="https://github.com/SundaePorkCutlet/chating/assets/87690981/c77748c8-13ae-4cc2-aa64-8fcc51157cf6">
 <img width="720" alt="image" src="https://github.com/SundaePorkCutlet/chating/assets/87690981/3002240c-39bd-4955-916f-4204106d1565">
